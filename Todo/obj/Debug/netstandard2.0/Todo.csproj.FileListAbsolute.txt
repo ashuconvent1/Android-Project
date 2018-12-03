@@ -1,0 +1,12 @@
+C:\Users\Ashima\Desktop\New folder\Todo\bin\Debug\netstandard2.0\Todo.deps.json
+C:\Users\Ashima\Desktop\New folder\Todo\bin\Debug\netstandard2.0\Todo.dll
+C:\Users\Ashima\Desktop\New folder\Todo\bin\Debug\netstandard2.0\Todo.pdb
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.csprojAssemblyReference.cache
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfo.cs
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.dll
+C:\Users\Ashima\Desktop\New folder\Todo\obj\Debug\netstandard2.0\Todo.pdb
